@@ -47,6 +47,6 @@ sudo apt update && sudo apt install build-essential
 ### Compilation and Execution
 #### Compile and Run `hello.c`
 ```
-gcc hello.c -o hello
+gcc main.c -o hello
 ./hello
 ```
