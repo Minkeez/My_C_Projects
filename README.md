@@ -39,7 +39,7 @@ My_C_Projects/
 │   ├── main.c
 │   ├── README.md
 │   └── ...
-├── 02_Simple_Calculator/
+├── 02_CLI_Basic_Calculator/
 │   ├── main.c
 │   └── README.md
 │   └── ...
@@ -64,7 +64,7 @@ Here’s a list of projects I’ve completed so far:
 
 1. **01_Hello_World**
    _Basic program that prints "Hello, World!" and interacts with user input._
-2. **02_Simple_Calculator**
+2. **02_CLI_Basic_Calculator**
    _A console-based calculator that supports basic arithmetic operations._
 3. **03_String_Manipulator**
    _Performs string operations like reversing, counting characters, and more._
@@ -82,7 +82,7 @@ I'll update this list as new projects are completed.
 1. **Clone the repository:**
 
 ```
-git clone https://github.com/YourGitHubUsername/My_C_Projects.git
+git clone https://github.com/Minkeez/My_C_Projects.git
 ```
 
 2. **Navigate to a specific project folder:**

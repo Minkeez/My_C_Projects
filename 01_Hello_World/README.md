@@ -40,7 +40,7 @@ sudo apt update && sudo apt install build-essential
 ---
 
 ### Program Files
-- `hello.c`: Prints **"Hello, World!"**
+- `main.c`: Prints **"Hello, World!"**
 
 ---
 
